@@ -4,11 +4,7 @@
 ## To use, clone the repo from the Master branch then run npm install to install dependencies then run node app.js to start the app. 
 
 ## Author
-
-Cory M Scanlon
-
-## Example Gif
-![Gif](Demo.BookSearch.gif)
+This was a bootcamp excersise so a lot of code was provided already. Original author Trinity expanded by Cory M Scanlon to meet requirments.
 
 # License
 
